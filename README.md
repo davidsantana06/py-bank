@@ -15,7 +15,7 @@
   there is an internal validation based on certain criteria.
 </div>
 
-### 2. Linguagens e tecnologias utilizadas
+### <br>2. Versões utilizadas
 <table>
   <tr>
     <td>Python</td>
@@ -29,7 +29,7 @@
   </tr>
 </table>
 
-### 3. Como rodar a aplicação
+### <br>3. Como rodar a aplicação
 Para executar a aplicação, é necessário, ordenamente:
 1. Instalar o Python;
 2. Instalar a bibliotecas Matplotlib e Pandas;
