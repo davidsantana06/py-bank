@@ -14,8 +14,9 @@
   Finally, it should be noted that the texts displayed on the panel are properly formatted for better visualization, and that for any data entry by the user,
   there is an internal validation based on certain criteria.
 </div>
+<br>
 
-### <br>2. Versões utilizadas
+### 2. Versões utilizadas
 <table>
   <tr>
     <td>Python</td>
@@ -28,8 +29,9 @@
     <td>1.5.2</td>
   </tr>
 </table>
+<br>
 
-### <br>3. Como rodar a aplicação
+### 3. Como rodar a aplicação
 Para executar a aplicação, é necessário, ordenamente:
 1. Instalar o Python;
 2. Instalar a bibliotecas Matplotlib e Pandas;
