@@ -31,10 +31,28 @@
 </table>
 <br>
 
-### 3. Como rodar a aplicação
+### 3. Instalações obrigatórias
+<div align="justify">
+  Como apresentado nos tópicos anteriores, optou-se pela utilização de duas bibliotecas à parte do conjunto de bibliotecas padrão, portanto, é necessário 
+  realizar a instalação de ambas. É recomendando seguir as versões especificadas, a fim de evitar erros e problemas durante a execução. Abaixo, é possível
+  observar os comandos à serem executados no terminal, a fim de se instalar as bibliotecas seguindo as especificações corretas.
+</div>
+
+#### Matplotlib
+```bash
+pip install matplotlib==3.6.2
+```
+
+#### Pandas
+```bash
+pip install pandas==1.5.2
+```
+<br>
+
+### 4. Como rodar
 Para executar a aplicação, é necessário, ordenamente:
 1. Instalar o Python;
 2. Instalar a bibliotecas Matplotlib e Pandas;
 3. Baixar os arquivos presentes neste repositório;
 4. Executar o arquivo "main.py";
-5. Após isso, basta seguir os passos dispostos à partir do terminal da aplicação.
+5. Iniciar a interação com o terminal.
