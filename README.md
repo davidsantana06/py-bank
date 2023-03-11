@@ -1,6 +1,6 @@
 # <img src="https://user-images.githubusercontent.com/110633725/224460842-e58596da-f9b9-43bc-a81e-d9d36289ea37.png" height="25"> Py Bank
 
-### 1. Resumo
+### 1. Sobre
 <div align="justify">
   (PT-BR) O Py Bank é um sistema desenvolvido em Python com as bibliotecas Matplotlib e Pandas, além de outras biblitoecas nativas. O foco da aplicação está
   no back-end, sem dispor de recursos visuais avançados, com exceção da exibição de gráficos contendo informações a respeito da movimentação dos recursos
