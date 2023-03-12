@@ -35,7 +35,7 @@
 <div align="justify">
   Como apresentado nos tópicos anteriores, optou-se pela utilização de duas bibliotecas à parte do conjunto de bibliotecas padrão, portanto, é necessário 
   realizar a instalação de ambas. É recomendando seguir as versões especificadas, a fim de evitar erros e problemas durante a execução. Abaixo, é possível
-  observar os comandos à serem executados no terminal, a fim de se instalar as bibliotecas seguindo as especificações corretas.
+  observar os comandos a serem executados no terminal para instalar as bibliotecas seguindo as especificações corretas.
 </div>
 <br>
 
