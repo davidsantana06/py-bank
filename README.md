@@ -48,7 +48,7 @@ pip install pandas==1.5.2
 <br><br>
 
 ### 4. Como rodar
-Para executar a aplicação, é necessário, ordenamente:
+Para executar a aplicação, é necessário, em ordem:
 1. Instalar o Python;
 2. Instalar a bibliotecas Matplotlib e Pandas;
 3. Baixar os arquivos presentes neste repositório;
