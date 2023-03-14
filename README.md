@@ -37,7 +37,7 @@
   a instalação de ambas. É recomendado seguir as versões especificadas, a fim de evitar erros e problemas durante a execução. Abaixo, é possível observar os 
   comandos a serem executados no terminal para instalar as bibliotecas seguindo as especificações corretas.
 </div>
-<br><br>
+<br>
 
 ```bash
 pip install matplotlib==3.6.2
@@ -45,7 +45,7 @@ pip install matplotlib==3.6.2
 ```bash
 pip install pandas==1.5.2
 ```
-<br>
+<br><br>
 
 ### 4. Como rodar
 Para executar a aplicação, é necessário, ordenamente:
